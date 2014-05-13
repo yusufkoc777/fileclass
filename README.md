@@ -1,4 +1,6 @@
-fileclass
+Dosya Sınıfı v1
 =========
 
-Dosya Sınıfı
+Bu dosya sınıfı ile bir dosya oluşturup kaydedebilirsiniz.
+Aynı zamanda, bir dosya açabilirsiniz.
+Devamı gelecek...
