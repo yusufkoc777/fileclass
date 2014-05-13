@@ -1,0 +1,4 @@
+fileclass
+=========
+
+Dosya Sınıfı
